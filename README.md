@@ -8,8 +8,6 @@ Software Engineer · Coimbatore, India
 
 Software Engineer with three years of professional backend development experience, based in Coimbatore, India. Currently working through a structured, self-directed 148-day preparation program aimed at an SDE-2-level transition to a product-based company — deep coverage of data structures & algorithms, low-level and high-level system design, and a production-style microservices platform built from scratch.
 
-**Currently:** Day 28 of 148 — the DSA phase is underway (55 problems solved across 5 interview patterns), with Binary Search and Linked Lists coming up next.
-
 ---
 
 ### 🛠️ Tech Stack
